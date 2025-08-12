@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": "caesium:raw_pebber_block"
+  },
+  "result": {
+    "id": "caesium:raw_pebber",
+    "count": 9
+  }
+}

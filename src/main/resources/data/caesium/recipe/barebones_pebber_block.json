@@ -11,12 +11,5 @@
   "result": {
     "id": "caesium:pebber_block",
     "count": 1
-  },
-  "type": "minecraft:smelting",
-  "ingredient": "caesium:raw_pebber_block",
-  "result": {
-    "id": "caesium:pebber_block"
-  },
-  "experience": 5.1,
-  "cookingtime": 250
+  }
 }

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "caesium:pebber_block"
+    "caesium:pebber_block",
+    "caesium:raw_pebber_block"
   ]
 }

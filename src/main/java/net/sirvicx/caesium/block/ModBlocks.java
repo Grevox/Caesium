@@ -25,6 +25,17 @@ public class ModBlocks {
             )
     );
 
+    public static final DeferredBlock<Block> RAW_PEBBER_BLOCK = BLOCKS.register(
+            "raw_pebber_block",
+            registryName -> new Block(BlockBehaviour.Properties.of().setId(ResourceKey.create(Registries.BLOCK, registryName))
+                    .sound(SoundType.COPPER_GRATE)
+                    .destroyTime(3 * 20)
+                    .strength(4)
+                    .requiresCorrectToolForDrops()
+
+            )
+    );
+
 
 
 

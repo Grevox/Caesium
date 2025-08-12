@@ -27,7 +27,11 @@ public class ModItems {
                  "pebber_block",
                  (registryName -> new BlockItem(ModBlocks.PEBBER_BLOCK.get(), new Item.Properties().setId(ResourceKey.create(Registries.ITEM, registryName)))));
 
-        public static void register(IEventBus eventBus){
+    public static final DeferredItem<BlockItem> RAW_PEBBER_BLOCK = ITEMS.register(
+            "raw_pebber_block",
+            (registryName -> new BlockItem(ModBlocks.RAW_PEBBER_BLOCK.get(), new Item.Properties().setId(ResourceKey.create(Registries.ITEM, registryName)))));
+
+    public static void register(IEventBus eventBus){
             ITEMS.register(eventBus);
         }
 

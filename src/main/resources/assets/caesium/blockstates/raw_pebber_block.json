@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "caesium:block/raw_pebber_block"
+    }
+  }
+}

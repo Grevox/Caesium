@@ -22,6 +22,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.RAW_PEBBER);
                         output.accept(ModItems.PEBBER);
                         output.accept(ModItems.PEBBER_BLOCK);
+                        output.accept(ModItems.RAW_PEBBER_BLOCK);
                     })
                     .build() );
 
