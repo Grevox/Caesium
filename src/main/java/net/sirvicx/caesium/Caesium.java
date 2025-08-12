@@ -1,6 +1,6 @@
 package net.sirvicx.caesium;
 
-import net.minecraft.world.item.CreativeModeTabs;
+
 import net.sirvicx.caesium.block.ModBlocks;
 import net.sirvicx.caesium.item.ModCreativeModeTabs;
 import net.sirvicx.caesium.item.ModItems;
@@ -44,7 +44,6 @@ public class Caesium {
         LOGGER.info("Registering Blocks");
         ModBlocks.register(modEventBus);
         LOGGER.info("calling a self made caller (could cause problems)\n initializing block items");
-        //ModBlocks.caller();
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
 
