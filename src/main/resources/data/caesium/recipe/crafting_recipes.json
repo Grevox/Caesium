@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R"
+  ],
+  "key": {
+    "#": "minecraft:raw_iron",
+    "R": "minecraft:raw_copper"
+  },
+  "result": {
+    "id": "caesium:raw_pebber",
+    "count": 1
+  },
+  "type": "minecraft:smelting",
+  "ingredient": "caesium:raw_pebber",
+  "result": {
+    "id": "caesium:pebber"
+  },
+  "experience": 5.1,
+  "cookingtime": 250,
+
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "caesium:pebber",
+    "result": {
+      "id": "caesium:pebber_block",
+      "count": 1,
+
+
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "#"
+      ],
+      "key": {
+        "#": "caesium:pebber_block",
+        "result": {
+          "id": "caesium:pebber",
+          "count": 9
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R"
+  ],
+  "key": {
+    "#": "minecraft:raw_iron",
+    "R": "minecraft:raw_copper"
+  },
+  "result": {
+    "id": "caesium:raw_pebber",
+    "count": 1
+  }
+}
