@@ -73,6 +73,126 @@
         "result": {
           "id": "caesium:raw_pebber_block",
           "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          " / ",
+          " / "
+        ],
+        "key": {
+          "#": "caesium:pebber",
+          "/": "minecraft:stick"
+        },
+        "result": {
+          "id": "caesium:pebber_pickaxe",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "#",
+          "#",
+          "/"
+        ],
+        "key": {
+          "#": "caesium:pebber",
+          "/": "minecraft:stick"
+        },
+        "result": {
+          "id": "caesium:pebber_sword",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "#",
+          "/",
+          "/"
+        ],
+        "key": {
+          "#": "caesium:pebber",
+          "/": "minecraft:stick"
+        },
+        "result": {
+          "id": "caesium:pebber_shovel",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          " ##",
+          " /#",
+          " / "
+        ],
+        "key": {
+          "#": "caesium:pebber",
+          "/": "minecraft:stick"
+        },
+        "result": {
+          "id": "caesium:pebber_axe",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          " ##",
+          " / ",
+          " / "
+        ],
+        "key": {
+          "#": "caesium:pebber",
+          "/": "minecraft:stick"
+        },
+        "result": {
+          "id": "caesium:pebber_hoe",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "# #"
+        ],
+        "key": {
+          "#": "caesium:pebber"
+        },
+        "result": {
+          "id": "caesium:pebber_helmet",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "# #",
+          "###",
+          "###"
+        ],
+        "key": {
+          "#": "caesium:pebber"
+        },
+        "result": {
+          "id": "caesium:pebber_chestplate",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "###",
+          "# #",
+          "# #"
+        ],
+        "key": {
+          "#": "caesium:pebber"
+        },
+        "result": {
+          "id": "caesium:pebber_leggings",
+          "count": 1
+        },
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "# #",
+          "# #"
+        ],
+        "key": {
+          "#": "caesium:pebber"
+        },
+        "result": {
+          "id": "caesium:pebber_boots",
+          "count": 1
         }
       }
     }

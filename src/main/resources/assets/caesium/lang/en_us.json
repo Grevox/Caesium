@@ -1,8 +1,18 @@
 {
-  "item.caesium.raw_pebber": "Raw pebber",
+  "item.caesium.raw_pebber": "Raw Pebber",
   "item.caesium.pebber": "Pebber",
-  "creativetab.caesium.items": "Caesium items",
-  "item.caesium.pebber_block": "Pebber block",
-  "item.caesium.raw_pebber_block": "Raw pebber block"
-
+  "creativetab.caesium.items": "Caesium Items",
+  "item.caesium.pebber_block": "Pebber Block",
+  "item.caesium.raw_pebber_block": "Raw Pebber Block",
+  "item.caesium.pebber_pickaxe": "Pebber Pickaxe",
+  "item.caesium.pebber_sword": "Pebber Sword",
+  "item.caesium.pebber_axe": "Pebber Axe",
+  "item.caesium.pebber_shovel": "Pebber Shovel",
+  "item.caesium.pebber_hoe": "Pebber Hoe",
+  "item.caesium.pebber_chestplate": "Pebber Chestplate",
+  "item.caesium.pebber_helmet": "Pebber Helmet",
+  "item.caesium.pebber_leggings": "Pebber Leggings",
+  "item.caesium.pebber_boots": "Pebber Boots",
+  "item.caesium.eye_drops": "Eye Drops**",
+  "item.caesium.pebber_essence": "Pebber Essence"
 }

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "caesium:pebber"
+  },
+  "result": {
+    "id": "caesium:pebber_chestplate",
+    "count": 1
+  }
+}

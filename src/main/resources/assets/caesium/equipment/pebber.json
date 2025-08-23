@@ -1,0 +1,28 @@
+{
+
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "caesium:pebber/outer"
+      },
+      {
+        "texture": "caesium:pebber/outer_overlay",
+        "dyeable": {
+          "color_when_undyed": 7767006
+        }
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "caesium:pebber/inner"
+      },
+      {
+        "texture": "caesium:pebber/inner_overlay",
+        "dyeable": {
+          "color_when_undyed": 7767006
+        }
+      }
+    ]
+
+  }
+  }
